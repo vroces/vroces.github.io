@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   /* -- Typing revealing effect -- */
   var typingEffect = new Typed(".typedText",{
-    strings : ["SW Engineer","Developer","Coder","Deaf", "Creator", "Innovator", "Programmer"],
+    strings : ["SW Engineer","Developer","Coder","Deaf", "Welder", "Creator", "Innovator", "Programmer"],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
