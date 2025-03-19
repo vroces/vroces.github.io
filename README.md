@@ -23,5 +23,6 @@ I am a passionate software engineer with a strong foundation in **HTML, CSS, Jav
 - **HTML5**, **CSS3**, **JavaScript** for building interactive and responsive web applications.
 - **GitHub Pages** for hosting this portfolio website.
 
+## Acknowledgments
 
-
+This project includes code from an open-source project, which I used as a reference for creating the layout and functionality of my website. You can check out the original project here: [[Link to open-source project](https://jvcodes.com/responsive-portfolio-website-design-for-web-developer/)].
