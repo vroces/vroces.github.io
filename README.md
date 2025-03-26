@@ -1,8 +1,9 @@
 # vroces.github.io
 
-# My Portfolio
+## Live Portfolio
 
-Welcome to my personal portfolio! 
+You can view my live portfolio at: [https://vroces.github.io](https://vroces.github.io)
+
 
 ## About Me
 
